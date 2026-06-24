@@ -1,6 +1,5 @@
 <!--
  * @Description: 全网最全 Telegram 中文资源导航
- * @site: 98nav.com
  * @keywords: Telegram 群组, Telegram 机器人, TG 频道导航, Telegram 搜索机器人, TG 工具大全, Web3 Telegram, Crypto 群组导航, VPS 推荐, Telegram 资源索引, Telegram 中文资源, TG 功能机器人, 加密货币群组, NFT Telegram, DeFi Telegram, 科学上网 Telegram
  * @description: 本仓库整理 9999+ Telegram 群组、频道、机器人、Web3 社群、加密货币资源、VPS 商家、工具机器人等分类合集，支持快速导航、资源检索、频道索引，是目前最全的 Telegram 中文导航索引。
 -->
@@ -13,8 +12,6 @@
 > ⚠️ **安全提示**：加入群组前务必查看群公告，警惕私聊诈骗与钓鱼链接。对任何「主动私信」或「陌生消息」保持怀疑；请 DYOR（自行研究核实）。建议开启「仅限管理员私聊」与「隐藏手机号码」以增强隐私与安全。
 
 > ❗ **免责声明**：请遵守所在地区法律法规，本项目不对任何法律问题承担责任。使用即视为已知悉并接受上述条款。
-
-### 📌 TG 百科 / 申诉 / 客户端汉化：[@pindaotj](https://t.me/pindaotj) &nbsp;&nbsp;&nbsp; 🌍 导航网站：[98nav.com](https://98nav.com)
 
 <br>
 
